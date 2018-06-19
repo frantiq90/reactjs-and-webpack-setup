@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-and-webpack-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frantiq90/reactjs-and-webpack-setup.git"
+  },
+  "author": "Oskar Kosela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frantiq90/reactjs-and-webpack-setup/issues"
+  },
+  "homepage": "https://github.com/frantiq90/reactjs-and-webpack-setup#readme"
+}
